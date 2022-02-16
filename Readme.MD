@@ -32,9 +32,12 @@
 ## Monitors
  - Execution Day [2022] (House)
  - Madball [2021] (House)
+ - Gwar [2021] (House Assist)
  - EyeHateGod [2021] (House)
  - Fall of Troy [2021] (House)
  - Joanna Shaw Taylor [2019] (House)
+ - Dwight Yoakam [2019] (House Asisst)
+ - The Allman Betts Band [2019] (House Assist)
  - Magnolia Blvd [2019] (House)
  - J Roddy X-Mas to the Bone [2021] (House)
  - Fly To The Moon [2021] (House)
@@ -56,5 +59,6 @@
 
 ### Key
  
-House - I worked as a house tech
-Hired - I was hired directly by the band per request or by a booking agency
+ - House: I worked as a house tech and ran monitors for the artist
+ - House Assist: I assisted the tour in interfacing their rig into the house system
+ - Hired: I was hired directly by the band per request or by a booking agency

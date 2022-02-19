@@ -1,9 +1,19 @@
 # AV Resume
 
+### Key
+ 
+ - House: I worked as a house tech and was a tech for the artist
+ - House Assist: I assisted the tour in interfacing their rig into the house system
+ - Hired: I was hired directly by the band per request or by a booking agency
+ - Company: I was hired by a production company as an independant contractor
+
 ## Stage Hand (All House)
+ - Subtonics 2022
+ - Catholic Diocese Young Convention 2022 (+ FOH Cam)
  - Lynyrd Skynyrd 2021
  - Foreigner 2021
  - Glenn Youngkin 2022 Inaugural Ball @ Main St Station
+ - Trans-Siberian Orchestra 2021
  - MGK (VACU! Live) 2021
  - Porter Robinson (VACU! Live) 2021
  - Steve Earle (+ FOH Cam) 2021
@@ -12,13 +22,19 @@
  - Hank Jr (+ PTZ Cam)
  - Madison 2021
  - Between The Burried and Me 2021
+ - Illenium 2019
+ - Cody Jinks 2019
+ - JoJo Siwa 2019 (+ Show call)
  - Nightmare 2019
+ - Odeza 2015
+ - 21 Pilots 2015
 
 ## House Video / House Video Assist
  - Brad Paisley [2021]
  - Scotty McCreery [2021]
  
 ## FOH Audio
+ - Florencia Rusinol [2022] (House)
  - Whats Our Age Again [2022] (House)
  - Super City [2022] (House)
  - Drew Gibson [2022] (House)
@@ -55,6 +71,7 @@
   - The J.O.B
     - https://www.youtube.com/watch?v=t6wTpw9wt1Y
     - https://www.youtube.com/watch?v=ZhfMI049msE
+    - 
 
 ### Venues
 
@@ -65,10 +82,3 @@
   - Redemption Center / Hope City Church: FOH / Monitors / PM [2016-2018] 
   - Meadow Event Park: Hand, Camera op (PTZ/FOH) Video Director, Video Director Assist, Lighting Assist [2021-Present]
   - Innsbrook Afterhours: Hand, Camera Op (FOH) [2019-2021]
-
-### Key
- 
- - House: I worked as a house tech and was a tech for the artist
- - House Assist: I assisted the tour in interfacing their rig into the house system
- - Hired: I was hired directly by the band per request or by a booking agency
- - Company: I was hired by a production company as an independant contractor

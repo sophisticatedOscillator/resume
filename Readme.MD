@@ -9,7 +9,7 @@
 
 ## Stage Hand (All House)
  - Subtonics 2022
- - Catholic Diocese Young Convention 2022 (+ FOH Cam)
+ - Catholic Diocese Youth Convention 2022 (+ FOH Cam)
  - Lynyrd Skynyrd 2021
  - Foreigner 2021
  - Glenn Youngkin 2022 Inaugural Ball @ Main St Station
@@ -71,7 +71,6 @@
   - The J.O.B
     - https://www.youtube.com/watch?v=t6wTpw9wt1Y
     - https://www.youtube.com/watch?v=ZhfMI049msE
-    - 
 
 ### Venues
 

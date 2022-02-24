@@ -2,7 +2,7 @@
 
 ### Key
  
- - House: I worked as a house tech and was a tech for the artist
+ - House: I worked as a house tech or house hand
  - House Assist: I assisted the tour in interfacing their rig into the house system
  - Hired: I was hired directly by the band per request or by a booking agency
  - Company: I was hired by a production company as an independant contractor
@@ -19,6 +19,9 @@
  - Porter Robinson (VACU! Live) 2021
  - Steve Earle (+ FOH Cam) 2021
  - Old Dominion 2021
+ - Aaron Lewis 2021
+ - Dirty Heads / Sublime w/ Rome 2021
+ - ZZTop 2021
  - Jake Owen 2021
  - Hank Jr (+ PTZ Cam)
  - Madison 2021
@@ -63,11 +66,12 @@
  - Fly To The Moon [2021] (House)
  - Glenn Youngkin [2021] (Company)
 
-## Lighting Operator (All House)
-  - Limbs [2022]
-  - Sleepwaker [2022]
-  - I The Breather [2022]
-  - Grayscale [2021]
+## Lighting Operator
+  - Manic Vision [2022] (Hired)
+  - Limbs [2022] (House)
+  - Sleepwaker [2022] (House)
+  - I The Breather [2022] (House)
+  - Grayscale [2021] (House)
 
 ## Tracked Audio
   - The J.O.B

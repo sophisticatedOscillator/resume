@@ -8,6 +8,7 @@
  - Company: I was hired by a production company as an independant contractor
 
 ## Stage Hand (All House)
+ - Clario
  - Subtonics 2022
  - Catholic Diocese Youth Convention 2022 (+ FOH Cam)
  - Lynyrd Skynyrd 2021
@@ -34,6 +35,7 @@
  - Scotty McCreery [2021]
  
 ## FOH Audio
+ - Manic Vision [2022] (Hired)
  - Florencia Rusinol [2022] (House)
  - Whats Our Age Again [2022] (House)
  - Super City [2022] (House)
@@ -41,11 +43,11 @@
  - Honest Debts [2021] (Hired)
  - The J.O.B [2015-2016, 2019-2021] (Hired)
    - https://www.youtube.com/watch?v=f0dXP7u79M8
- - Vintage Pistol [2021] (Hired)
+ - Vintage Pistol [2021t] (Hired)
  - GrandVille [2021] (Hired)
  - DeeOhGee [2021] (Hired)
  - Frames [2021] (House)
- - Satyr [2021] (House) 
+ - Satyr [2021] (House)
 
 ## Monitors / A2
  - Dwight Yoakam [2019] (House Asisst)

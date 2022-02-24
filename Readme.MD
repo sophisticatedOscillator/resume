@@ -8,7 +8,7 @@
  - Company: I was hired by a production company as an independant contractor
 
 ## Stage Hand (All House)
- - Clario
+ - Clario 2022
  - Subtonics 2022
  - Catholic Diocese Youth Convention 2022 (+ FOH Cam)
  - Lynyrd Skynyrd 2021

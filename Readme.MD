@@ -63,7 +63,7 @@
  - Fly To The Moon [2021] (House)
  - Glenn Youngkin [2021] (Company)
 
-## Lighting (All House)
+## Lighting Operator (All House)
   - Limbs [2022]
   - Sleepwaker [2022]
   - I The Breather [2022]

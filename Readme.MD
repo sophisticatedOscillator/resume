@@ -38,6 +38,14 @@
  - Scotty McCreery [2021]
  
 ## FOH Audio
+ - Big Something [2022] (Hired Fill In)
+ - Nile [2022] (House Assist)
+ - Incantation [2022] (House Assist)
+ - I Am [2022] (House)
+ - Sanguisugabogg [2022] (House)
+ - Zero 9:36 [2022] (House Assist)
+ - Space Koi [2022] (House)
+ - 
  - Manic Vision [2022] (Hired)
  - Florencia Rusinol [2022] (House)
  - Whats Our Age Again [2022] (House)
@@ -53,19 +61,20 @@
  - Satyr [2021] (House)
 
 ## Monitors / A2
- - Dwight Yoakam [2019] (House Asisst)
- - The Allman Betts Band [2019] (House Assist)
- - Gwar [2021] (House Assist)
  - Execution Day [2022] (House)
- - Madball [2021] (House)
- - EyeHateGod [2021] (House)
- - Fall of Troy [2021] (House)
- - Joanna Shaw Taylor [2019] (House)
- - Magnolia Blvd [2019] (House)
+ - Yola [2022] (House Assist)
  - J Roddy X-Mas to the Bone [2021] (House)
  - Fly To The Moon [2021] (House)
  - Glenn Youngkin [2021] (Company)
-
+ - Madball [2021] (House)
+ - Gwar [2021] (House Assist)
+ - EyeHateGod [2021] (House)
+ - Fall of Troy [2021] (House)
+ - Dwight Yoakam [2019] (House Asisst)
+ - The Allman Betts Band [2019] (House Assist)
+ - Joanna Shaw Taylor [2019] (House)
+ - Magnolia Blvd [2019] (House)
+ 
 ## Lighting Operator
   - Manic Vision [2022] (Hired)
   - Limbs [2022] (House)

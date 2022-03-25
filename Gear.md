@@ -23,6 +23,8 @@ __This entire unit travels as a package and cannot be broken out separately__
 
  - 3x Allen & Heath ME-500
 
+__This requires the usage of the Allen & Heath SQ-5 Console and possibly the stagebox__
+
 ## Consoles
 
  - Allen & Heath SQ-5
@@ -31,6 +33,8 @@ __This entire unit travels as a package and cannot be broken out separately__
 ## Digital Stageboxes
 
  - Allen & Heath AR2412
+
+__I currently do not have a stagebox for the M32C__
 
 ## Microphones
 

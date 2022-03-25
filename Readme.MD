@@ -7,11 +7,6 @@
  - Hired: I was hired directly by the band per request or by a booking agency
  - Company: I was hired by a production company as an independant contractor
 
-
-## House Video / House Video Assist
- - Brad Paisley [2021]
- - Scotty McCreery [2021]
- 
 ## FOH Audio
  - The Virginia Governor's Cup [2022] (Hired)
    - Including speech from Virginia Governor Glenn Youngkin
@@ -77,6 +72,10 @@
   - Sleepwaker [2022] (House)
   - I The Breather [2022] (House)
   - Grayscale [2021] (House)
+
+## House Video / House Video Assist
+ - Brad Paisley [2021]
+ - Scotty McCreery [2021]
 
 ## Stage Hand (All House)
  - Clario 2022

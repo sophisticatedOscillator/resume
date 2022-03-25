@@ -13,8 +13,8 @@
  - Scotty McCreery [2021]
  
 ## FOH Audio
- - The Virginia Governors Cup [2022] (Hired)
-   - Including speech from Glenn Youngkin
+ - The Virginia Governor's Cup [2022] (Hired)
+   - Including speech from Virginia Governor Glenn Youngkin
  - The Dangerous Summer [2022] (House Assist)
  - Wild Truth [2022] (House)
  - Cory Wells [2022] (House)

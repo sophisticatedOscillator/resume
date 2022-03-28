@@ -8,6 +8,9 @@
  - Company: I was hired by a production company as an independant contractor
 
 ## FOH Audio
+ - Sub Radio [2022] (House)
+ - St. Samuel [2022] (House)
+ - Merci [2022] (House)
  - The Virginia Governor's Cup [2022] (Hired)
    - Including speech from Virginia Governor Glenn Youngkin
  - The Dangerous Summer [2022] (House Assist)

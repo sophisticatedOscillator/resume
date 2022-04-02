@@ -81,6 +81,7 @@
  - Scotty McCreery [2021]
 
 ## Stage Hand (All House)
+ - RRHA 2022 (+ FOH Cam)
  - Clario 2022
  - Subtonics 2022
  - Catholic Diocese Youth Convention 2022 (+ FOH Cam)

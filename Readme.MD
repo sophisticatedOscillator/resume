@@ -8,6 +8,10 @@
  - Company: I was hired by a production company as an independant contractor
 
 ## FOH Audio
+ - Slow Crush [2022] (House Assist)
+ - Cathedral Bells [2022] (House)
+ - Shy, Low [2022] (House)
+ - OneUp Varsity Cheerleading [2022] (Hired)
  - Sub Radio [2022] (House)
  - St. Samuel [2022] (House)
  - Merci [2022] (House)
@@ -47,6 +51,7 @@
    - https://www.youtube.com/watch?v=f0dXP7u79M8
 
 ## Monitors / A2
+ - Frames [2022] (House)
  - What's Our Age Again [2022] (House)
  - D.R.U.G.S [2022] (House Assist)
  - Scary Kids Scaring Kid [2022] (House Assist)

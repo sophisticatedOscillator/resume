@@ -27,14 +27,12 @@ __This requires the usage of the Allen & Heath SQ-5 Console and possibly the sta
 
 ## Consoles
 
- - Allen & Heath SQ-5
+ - Midas M32R 
  - Midas M32C
  
 ## Digital Stageboxes
 
- - Allen & Heath AR2412
-
-__I currently do not have a stagebox for the M32C__
+ - Midas DL32
 
 ## Microphones
 
@@ -67,6 +65,7 @@ __I currently do not have a stagebox for the M32C__
 
 ## Cabling
 
+ - 32CH Split Snake Rackmount w/ 30' and 5' Tails
  - 24CH Split Snake Rackmount w/ 5' & 15' Tails
  - 150' of Ethercon Cat5e
  - 75' of Ethercon Cat5e
@@ -75,6 +74,22 @@ __I currently do not have a stagebox for the M32C__
  - Enough XLRs in 10',25',50' Lengths
  - 2x Elite Core Audio 6x0 Subsnakes 30' Length
  - 1x Whirlwind 13x1 Subsnake 25' Length w/ Single Cat5e
+
+## Misc
+
+ - 8x 15 lb ~ sandbags
+ - Visqueen
+ - Tieline
+
+## Cases
+
+ - 3U SKB Flyer Rack 13" Depth
+ - 6U SKB Roto Rack
+ - 2U SKB Rackmount Mixer Case
+ - 12U ATA Rack Case
+ - 10U ATA Rack Case
+ - ATA Quarter Pack
+ - SKB 24 Pack Mic Case
 
 ## Travel Pelican 
 

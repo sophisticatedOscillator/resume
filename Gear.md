@@ -90,6 +90,9 @@ __This requires the usage of the Allen & Heath SQ-5 Console and possibly the sta
  - 10U ATA Rack Case
  - ATA Quarter Pack
  - SKB 24 Pack Mic Case
+ - ATA 2x12 Cases
+ - Various Condition1 Carry Cases
+ - Large SKB Wheeled Trunk (Current Cable Trunk)
 
 ## Travel Pelican 
 

@@ -14,17 +14,6 @@ I've got the following gear available for rental / usage.  Pricing varies always
 
 __This entire unit travels as a package and cannot be broken out separately__
 
-### Monitors
-
- - 3x Mackie Thump 12A
- - 2x Mackie Thump 15A
-
-### Digital Mix Surfaces
-
- - 3x Allen & Heath ME-500
-
-__This requires the usage of the Allen & Heath SQ-5 Console and possibly the stagebox__
-
 ## Consoles
 
  - Midas M32R 

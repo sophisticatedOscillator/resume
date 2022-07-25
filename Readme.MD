@@ -6,8 +6,11 @@
  - House Assist: I assisted the tour in interfacing their rig into the house system
  - Hired: I was hired directly by the band per request or by a booking agency
  - Company: I was hired by a production company as an independant contractor
+ - Vendor: I worked as a Vendor
 
 ## FOH Audio
+ - Oli Silk [2022] (House & Monitors)
+ - The Seratones [2022] (Vendor FOH)
  - Slow Crush [2022] (House Assist)
  - Cathedral Bells [2022] (House)
  - Shy, Low [2022] (House)
@@ -27,7 +30,7 @@
  - Big Something [2022] (Hired Fill In)
  - Nile [2022] (House Assist)
  - Incantation [2022] (House Assist)
- - I Am [2022] (House)
+ - I Am [2022] (House) 
  - Sanguisugabogg [2022] (House)
  - Zero 9:36 [2022] (House Assist)
  - Space Koi [2022] (House)
@@ -85,7 +88,8 @@
  - Brad Paisley [2021]
  - Scotty McCreery [2021]
 
-## Stage Hand (All House)
+## Stage Hand (No Touring Hands.  All Vendor / House / Labor Company)
+ - The String Cheese Incident 2022
  - RRHA 2022 (+ FOH Cam)
  - Clario 2022
  - Subtonics 2022
@@ -131,3 +135,12 @@ Nothing yet, let's go on the road!
   - Redemption Center / Hope City Church: FOH / Monitors / PM [2016-2018] 
   - Meadow Event Park: Hand, Camera op (PTZ/FOH) Video Director, Video Director Assist, Lighting Assist [2021-Present]
   - Innsbrook Afterhours: Hand, Camera Op (FOH) [2019-2021]
+
+### Companies
+
+  - Soundworks [2022-Present]: Audio Tech
+  - Backstage LLC [2019-2022]: Video Director, A2, Stage Hand
+  - AVP [2021-2022]: A1, Stagehand
+  - ELF [2019-2022]: Stagehand
+  - ASM Global [2021]: Stagehand (Non-Union Member)
+

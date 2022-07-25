@@ -8,17 +8,29 @@
  - Company: I was hired by a production company as an independant contractor
  - Vendor: I worked as a Vendor
 
-## FOH Audio
+
+## FOH Audio - Direct Hire
+ - Big Something [2022] (Hired Fill In)
+ - Honest Debts [2021] (Hired)
+ - Fresh Take [2021-Present] (Hired)
+ - Vintage Pistol [2021] (Hired)
+ - GrandVille [2021] (Hired)
+ - DeeOhGee [2021] (Hired)
+ - The J.O.B [2015-2016, 2019-2021] (Hired)
+   - https://www.youtube.com/watch?v=f0dXP7u79M8
+
+## FOH Audio Non-Direct Hire
+ - Manic Vision [2022] (Company)
  - Oli Silk [2022] (House & Monitors)
  - The Seratones [2022] (Vendor FOH)
  - Slow Crush [2022] (House Assist)
  - Cathedral Bells [2022] (House)
  - Shy, Low [2022] (House)
- - OneUp Varsity Cheerleading [2022] (Hired)
+ - OneUp Varsity Cheerleading [2022] (Company)
  - Sub Radio [2022] (House)
  - St. Samuel [2022] (House)
  - Merci [2022] (House)
- - The Virginia Governor's Cup [2022] (Hired)
+ - The Virginia Governor's Cup [2022] (Company)
    - Including speech from Virginia Governor Glenn Youngkin
  - The Dangerous Summer [2022] (House Assist)
  - Wild Truth [2022] (House)
@@ -27,33 +39,23 @@
  - Uncle Jessie [2022] (House)
  - Jared Stout Band [2022] (House)
  - East Of Blueridge [2022] (House)
- - Big Something [2022] (Hired Fill In)
  - Nile [2022] (House Assist)
  - Incantation [2022] (House Assist)
  - I Am [2022] (House) 
  - Sanguisugabogg [2022] (House)
  - Zero 9:36 [2022] (House Assist)
  - Space Koi [2022] (House)
- - Manic Vision [2022] (Hired)
  - Florencia Rusinol [2022] (House)
  - The Bart Chucker Band [2022] (House)
  - Whats Our Age Again [2022] (House)
  - Super City [2022] (House)
  - Drew Gibson [2022] (House)
- - Honest Debts [2021] (Hired)
- - Fresh Take [2021-Present] (Hired)
- - Free Spirit [2021-Present] (Hired / Contract)
- - Vintage Pistol [2021] (Hired)
- - GrandVille [2021] (Hired)
- - DeeOhGee [2021] (Hired)
  - Frames [2021] (House)
  - Satyr [2021] (House)
  - Vilified [2021] (House)
  - Aura [2021] (House)
- - The J.O.B [2015-2016, 2019-2021] (Hired)
-   - https://www.youtube.com/watch?v=f0dXP7u79M8
 
-## Monitors / A2
+## Monitors
  - Frames [2022] (House)
  - What's Our Age Again [2022] (House)
  - D.R.U.G.S [2022] (House Assist)
@@ -66,7 +68,6 @@
  - Jac Ross [2022] (House)
  - J Roddy X-Mas to the Bone [2021] (House)
  - Fly To The Moon [2021] (House)
- - Glenn Youngkin [2021] (Company)
  - Madball [2021] (House)
  - Gwar [2021] (House Assist)
  - EyeHateGod [2021] (House)
@@ -78,7 +79,6 @@
  
 ## Lighting Operator
   - What's Our Age Again [2022] (House)
-  - Manic Vision [2022] (Hired)
   - Limbs [2022] (House)
   - Sleepwaker [2022] (House)
   - I The Breather [2022] (House)
@@ -89,6 +89,7 @@
  - Scotty McCreery [2021]
 
 ## Stage Hand (No Touring Hands.  All Vendor / House / Labor Company)
+ - Glenn Youngkin [2021] (Company / A2)
  - The String Cheese Incident 2022
  - RRHA 2022 (+ FOH Cam)
  - Clario 2022
@@ -138,9 +139,8 @@ Nothing yet, let's go on the road!
 
 ### Companies
 
-  - Soundworks [2022-Present]: Audio Tech
+  - Soundworks [2022]: Audio Tech
   - Backstage LLC [2019-2022]: Video Director, A2, Stage Hand
   - AVP [2021-2022]: A1, Stagehand
   - ELF [2019-2022]: Stagehand
   - ASM Global [2021]: Stagehand (Non-Union Member)
-

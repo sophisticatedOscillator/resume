@@ -11,15 +11,20 @@
 
 ## FOH Audio - Direct Hire
  - Big Something [2022] (Hired Fill In)
- - Honest Debts [2021] (Hired)
- - Fresh Take [2021-Present] (Hired)
- - Vintage Pistol [2021] (Hired)
- - GrandVille [2021] (Hired)
- - DeeOhGee [2021] (Hired)
  - The J.O.B [2015-2016, 2019-2021] (Hired)
    - https://www.youtube.com/watch?v=f0dXP7u79M8
+ - Fresh Take [2021-2022] (Hired)
+ - Vintage Pistol [2021] (Hired)
+ - GrandVille [2021] (Hired)
+ - Honest Debts [2021] (Hired)
+ - DeeOhGee [2021] (Hired)
 
-## FOH Audio Non-Direct Hire
+## Import Note
+
+All other names below this list have been artists I have worked with as a house technicitian, vendor tech, or hired by a 3rd-party.
+
+### FOH Audio Non-Direct Hire
+ - Texas Hill  [2022] (House)
  - Manic Vision [2022] (Company)
  - Oli Silk [2022] (House & Monitors)
  - The Seratones [2022] (Vendor FOH)
@@ -55,7 +60,7 @@
  - Vilified [2021] (House)
  - Aura [2021] (House)
 
-## Monitors
+### Monitors
  - Frames [2022] (House)
  - What's Our Age Again [2022] (House)
  - D.R.U.G.S [2022] (House Assist)
@@ -77,18 +82,18 @@
  - Joanna Shaw Taylor [2019] (House)
  - Magnolia Blvd [2019] (House)
  
-## Lighting Operator
+### Lighting Operator
   - What's Our Age Again [2022] (House)
   - Limbs [2022] (House)
   - Sleepwaker [2022] (House)
   - I The Breather [2022] (House)
   - Grayscale [2021] (House)
 
-## House Video / House Video Assist
+### House Video / House Video Assist
  - Brad Paisley [2021]
  - Scotty McCreery [2021]
 
-## Stage Hand (No Touring Hands.  All Vendor / House / Labor Company)
+### Stage Hand (No Touring Hands.  All Vendor / House / Labor Company)
  - Glenn Youngkin [2021] (Company / A2)
  - The String Cheese Incident 2022
  - RRHA 2022 (+ FOH Cam)
@@ -118,14 +123,18 @@
  - Odeza 2015
  - 21 Pilots 2015
 
-## Tours
+### Tours
 
 Nothing yet, let's go on the road!
 
-## Tracked Audio
+### Tracked Audio
   - The J.O.B
     - https://www.youtube.com/watch?v=t6wTpw9wt1Y
     - https://www.youtube.com/watch?v=ZhfMI049msE
+
+## References:
+
+If you want to know how I work.  Ask any of these places.  These are the caliber of venues I've worked at.
 
 ### Venues
 
@@ -141,6 +150,5 @@ Nothing yet, let's go on the road!
 
   - Soundworks [2022]: Audio Tech
   - Backstage LLC [2019-2022]: Video Director, A2, Stage Hand
-  - AVP [2021-2022]: A1, Stagehand
-  - ELF [2019-2022]: Stagehand
-  - ASM Global [2021]: Stagehand (Non-Union Member)
+  - AVP [2021-2022]: Stagehand
+  - ELF [2019-Present]: Stagehand

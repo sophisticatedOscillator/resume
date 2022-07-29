@@ -16,12 +16,12 @@ __This entire unit travels as a package and cannot be broken out separately__
 
 ## Consoles
 
- - Midas M32R 
- - Midas M32C
+ - Midas M32R (ProX Doghouse case w/ Casters)
+ - Midas M32C (10U Rolling Rack w/ DL32 & 32CH)
  
 ## Digital Stageboxes
 
- - Midas DL32
+ - Midas DL32 (10U Rolling Rack w/ DL32 & 32CH)
 
 ## Microphones
 
@@ -55,6 +55,7 @@ __This entire unit travels as a package and cannot be broken out separately__
 ## Cabling
 
  - 32CH Split Snake Rackmount w/ 30' and 5' Tails
+   - (10U Rolling Rack w/ DL32 & 32CH)
  - 24CH Split Snake Rackmount w/ 5' & 15' Tails
  - 150' of Ethercon Cat5e
  - 75' of Ethercon Cat5e
@@ -62,7 +63,7 @@ __This entire unit travels as a package and cannot be broken out separately__
  - 5x 25' Cat5e cables
  - Enough XLRs in 10',25',50' Lengths
  - 2x Elite Core Audio 6x0 Subsnakes 30' Length
- - 1x Whirlwind 13x1 Subsnake 25' Length w/ Single Cat5e
+ - 1x Whirlwind 13x1x2 Subsnake 25' Length w/ Single Unshielded Cat5e, 1 Shielded Ethercon, 1 XLR Send
 
 ## Misc
 
@@ -82,19 +83,3 @@ __This entire unit travels as a package and cannot be broken out separately__
  - ATA 2x12 Cases
  - Various Condition1 Carry Cases
  - Large SKB Wheeled Trunk (Current Cable Trunk)
-
-## Travel Pelican 
-
- - dBA Meter
- - Multimeter
- - Rachet Screwdriver
- - Laser Measure
- - Measuring Tape
- - Cable Tester
- - Outdoor Wifi Antenna
- - 2x 15amp Tritaps
- - Gaff Tape
- - Craft Tape
- - eTape
- - USB B->A Cable
-

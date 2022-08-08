@@ -11,6 +11,9 @@
 
 ## FOH Audio - Direct Hire
  - Big Something [2022] (Hired Fill In)
+  - The Big What 2022
+  - St Pats @ 5 Points
+  - 9:30 Club
  - The J.O.B [2015-2016, 2019-2021] (Hired)
    - https://www.youtube.com/watch?v=f0dXP7u79M8
  - Fresh Take [2021-2022] (Hired)
@@ -18,6 +21,9 @@
  - GrandVille [2021] (Hired)
  - Honest Debts [2021] (Hired)
  - DeeOhGee [2021] (Hired)
+
+# Stage Management - Direct Hire
+ - The Big What 2022 (Main Stage)
 
 ## Import Note
 
@@ -81,7 +87,13 @@ All other names below this list have been artists I have worked with as a house 
  - The Allman Betts Band [2019] (House Assist)
  - Joanna Shaw Taylor [2019] (House)
  - Magnolia Blvd [2019] (House)
- 
+
+### A2
+ - Annie [2022] (Paramount Theatre)
+ - The Sound of Music [2022] (Paramount Theatre)
+ - Glenn Youngkin [2021] 
+
+
 ### Lighting Operator
   - What's Our Age Again [2022] (House)
   - Limbs [2022] (House)
@@ -94,34 +106,33 @@ All other names below this list have been artists I have worked with as a house 
  - Scotty McCreery [2021]
 
 ### Stage Hand (No Touring Hands.  All Vendor / House / Labor Company)
- - Glenn Youngkin [2021] (Company / A2)
- - The String Cheese Incident 2022
- - RRHA 2022 (+ FOH Cam)
- - Clario 2022
- - Subtonics 2022
- - Catholic Diocese Youth Convention 2022 (+ FOH Cam)
- - Lynyrd Skynyrd 2021
- - Foreigner 2021 (+ FOH Cam)
- - Glenn Youngkin 2022 Inaugural Ball @ Main St Station
- - Trans-Siberian Orchestra 2021
- - MGK (VACU! Live) 2021
- - Porter Robinson (VACU! Live) 2021
- - Steve Earle (+ FOH Cam) 2021
- - Old Dominion 2021
- - Aaron Lewis 2021
- - Dirty Heads / Sublime w/ Rome 2021
- - ZZTop 2021 (+ PTZ Cam)
- - Jake Owen 2021
+ - The String Cheese Incident [2022]
+ - RRHA [2022] (+ FOH Cam)
+ - Clario [2022]
+ - Subtonics [2022]
+ - Catholic Diocese Youth Convention [2022] (+ FOH Cam)
+ - Lynyrd Skynyrd [2021]
+ - Foreigner [2021] (+ FOH Cam)
+ - Glenn Youngkin [2022] Inaugural Ball @ Main St Station
+ - Trans-Siberian Orchestra [2021]
+ - MGK (VACU! Live) [2021]
+ - Porter Robinson (VACU! Live) [2021]
+ - Steve Earle (+ FOH Cam) [2021]
+ - Old Dominion [2021]
+ - Aaron Lewis [2021]
+ - Dirty Heads / Sublime w/ Rome [2021]
+ - ZZTop [2021] (+ PTZ Cam)
+ - Jake Owen [2021]
  - Hank Jr (+ PTZ Cam)
- - Madison 2021
- - Between The Burried and Me 2021
- - Illenium 2019
- - Cody Jinks 2019
- - JoJo Siwa 2019 (+ Show call)
- - Nightmare 2019
- - Blues Traveler 2019
- - Odeza 2015
- - 21 Pilots 2015
+ - Madison [2021]
+ - Between The Burried and Me [2021]
+ - Illenium [2019]
+ - Cody Jinks [2019]
+ - JoJo Siwa [2019] (+ Show call)
+ - Nightmare [2019]
+ - Blues Traveler [2019]
+ - Odeza [2015]
+ - 21 Pilots [2015]
 
 ### Tours
 
